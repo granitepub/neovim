@@ -1,0 +1,13 @@
+source $HOME/.config/nvim/vim-plug/plugins.vim
+source $HOME/.config/nvim/general/settings.vim
+source $HOME/.config/nvim/keys/mappings.vim
+source $HOME/.config/nvim/keys/mail.vim
+source $HOME/.config/nvim/keys/latex.vim
+source $HOME/.config/nvim/keys/latex_commands.vim
+source $HOME/.config/nvim/keys/markdown.vim
+source $HOME/.config/nvim/keys/tablemode.vim
+source $HOME/.config/nvim/themes/airline.vim
+source $HOME/.config/nvim/plug-config/coc.vim
+source $HOME/.config/nvim/vimTex/vimTex.vim
+source $HOME/.config/nvim/plug-config/fzf.vim
+source $HOME/.config/nvim/plug-config/move.vim
